@@ -24,7 +24,7 @@
 2. Flash the required recovery and boot images.
 3. Reboot into recovery.
 4. Select Apply Update → Apply from ADB.
-5. Sideload the Axion OsROM:
+5. Sideload the Axion Os ROM:
 
    ```bash
    adb sideload Axion Os-ROM.zip
