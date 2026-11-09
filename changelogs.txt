@@ -1,11 +1,9 @@
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
        CHANGELOGS · OnePlus 12R (Aston)
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
 ▸ Initial Release · 09/11/26
 
   - Initial AxionOS 2.9 release for OnePlus 12R
-  - Updated blobs/firmware from OOS 16.0.5.1301(EX01)
-  - Added Oneplus Cam gallery and Oneplus settings
+  - Ships with Oos Cam,Gallery,Oneplus-Settings,LTPO and Auto brightness fixes
   
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
